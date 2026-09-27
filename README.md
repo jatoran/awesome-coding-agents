@@ -24,6 +24,7 @@
 | 🧪 | [Claude Code](https://github.com/anthropics/claude-code) | terminal, codebase, git-workflows | Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows — all through natural language commands |
 | 🧪 | [Codex CLI](https://github.com/openai/codex) | lightweight, terminal, cli | Lightweight coding agent that runs in your terminal |
 | 🧪 | [3code](https://github.com/capocasa/3code) | cost-optimization, caching, compaction, byo-provider | The economical coding agent — token budget as a first-class constraint (chunked context, supersede-aware compaction, aggressive caching); any OpenAI-compatible endpoint, 75% fewer tokens than OpenCode on a SWE-bench subset |
+| 👀 | [molt](https://github.com/solvyxtech/molt) | verification, receipts, desktop, byo-model | A coding agent that won't say done on a false claim. Verification on disk. Receipts for accepts and refusals. Terminal and desktop. OpenAI compatible or Anthropic. |
 
 ## CLI Agent Helpers
 
@@ -64,6 +65,8 @@
 | 👀 | [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) | evaluation, benchmarks, evidence, worktrees | YYLO Benchmark: longitudinal evaluation and immutable evidence for agent runs. |
 | 👀 | [Tintpad](https://github.com/sorkila/tintpad) | macos, launcher, hotkey, local-first | It falls out of your notch. Hotkey, repo, Return: your terminal opens with Claude Code, Codex or any agent already running. Free, MIT, local-only macOS. |
 | 👀 | [Orkas](https://github.com/Orkas-AI/Orkas) | desktop, orchestration, local-first, coding-agents | Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your installed coding CLIs — Claude Code, Codex, OpenCode, OpenClaw, Hermes — as local sessions. Agents self-evolve via reflection and skill crystallization. BYO keys. macOS / Windows / Linux. |
+| 👀 | [check-docs](https://github.com/ipaulsmith/check-docs) | agents-md, claude-md, pre-commit, stale-paths | A small sh pre-commit check that stops a commit when CLAUDE.md, AGENTS.md or the files they @import name a path that no longer exists or a name you deleted |
+| 👀 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | replay, tracing, proxy, offline | Time travel for AI agents — record, replay, fork, and debug any agent run with any model |
 | 👀 | [swe-mux](https://github.com/jatoran/swe-mux) | multi-agent, status, mobile, tailscale, pty | Terminal multiplexer and agentic control plane with tailscale enabled. optimized for mobile development |
 
 ## Agent Instructions
@@ -81,6 +84,7 @@
 | 👀 | [wiki](https://github.com/plasma-ai/wiki) | knowledge-base, markdown, cli, agent-skills | Indexed knowledge bases with command-line tools for agents. |
 | 👀 | [chamnan](https://github.com/ArcticFox2029/chamnan) | context, architecture-index, impact-map, local-first, stdlib-only | Preserves a long-lived repository's engineering context — an architecture index, an impact map, session records, and the decisions behind them — as markdown committed beside the code, so an agent reads instead of rediscovering. |
 | 👀 | [ContextStream](https://github.com/contextstream/mcp-server) | context, mcp, coding-agents | Shared project context for Cursor, Claude Code, Codex, Grok. Site https://contextstream.io. MCP https://mcp.contextstream.io/mcp. Intelligence isn’t the bottleneck. Context is. |
+| 👀 | [Bhawna Skills](https://github.com/saketvishal/bhawna-skills) | decision-memory, architecture-guardrails, invariants, cli, local-first | Decision memory and architecture guardrails for AI coding agents. |
 
 ## Token Savers
 
